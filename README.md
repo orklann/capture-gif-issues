@@ -4,4 +4,4 @@ Welcome. You can create issues or make some discussions here to help improve Cap
 
 **NOTE:** Please include screenshot or relevant message while needed, thanks for making Capture Gif better.
 
-[Create Issue/Discussion](https://github.com/aaron-elkins/capture-gif-issue/issues/new)
+[Create Issue/Discussion](https://github.com/aaron-elkins/capture-gif-issues/issues/new)
